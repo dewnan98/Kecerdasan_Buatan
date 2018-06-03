@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1492514126 source:c:\users\dewna\onedrive\source code\c++\genetic_algorithm(1)\dewgraphiclib.cpp
+	"dewGraphicLib.h"
+
+1492513615 c:\users\dewna\onedrive\source code\c++\genetic_algorithm(1)\dewgraphiclib.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<array>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1492533051 source:c:\users\dewna\onedrive\source code\c++\genetic_algorithm(1)\main.cpp
+	<iostream>
+	"Population.h"
+	"DNA.h"
+	"dewGraphicLib.h"
+	<ctime>
+	<cstdlib>
+
+1492527798 c:\users\dewna\onedrive\source code\c++\genetic_algorithm(1)\include\population.h
+	"DNA.h"
+	<iostream>
+	<string.h>
+	<vector>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1492531744 c:\users\dewna\onedrive\source code\c++\genetic_algorithm(1)\include\dna.h
+	<iostream>
+	<conio.h>
+
+1492532831 source:c:\users\dewna\onedrive\source code\c++\genetic_algorithm(1)\src\dna.cpp
+	"DNA.h"
+	<cstdlib>
+	<iostream>
+	<string.h>
+	"../dewGraphicLib.h"
+
+1492533180 source:c:\users\dewna\onedrive\source code\c++\genetic_algorithm(1)\src\population.cpp
+	"Population.h"
+	"../dewGraphicLib.h"
+
+1528007223 source:c:\users\theresia carolina\desktop\algoritmagenetika\dewgraphiclib.cpp
+	"dewGraphicLib.h"
+
+1492488516 c:\users\theresia carolina\desktop\algoritmagenetika\dewgraphiclib.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<array>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1528007574 source:c:\users\theresia carolina\desktop\algoritmagenetika\main.cpp
+	<iostream>
+	"Population.h"
+	"DNA.h"
+	"dewGraphicLib.h"
+	<ctime>
+	<cstdlib>
+
+1492502696 c:\users\theresia carolina\desktop\algoritmagenetika\include\population.h
+	"DNA.h"
+	<iostream>
+	<string.h>
+	<vector>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1492506642 c:\users\theresia carolina\desktop\algoritmagenetika\include\dna.h
+	<iostream>
+	<conio.h>
+
+1528007201 source:c:\users\theresia carolina\desktop\algoritmagenetika\src\dna.cpp
+	"DNA.h"
+	<cstdlib>
+	<iostream>
+	<string.h>
+	"../dewGraphicLib.h"
+
+1528007181 source:c:\users\theresia carolina\desktop\algoritmagenetika\src\population.cpp
+	"Population.h"
+	"../dewGraphicLib.h"
+
